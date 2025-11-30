@@ -3,9 +3,7 @@
 
 🎓 MS in Marketing Science & Business Analytics @ University of Pittsburgh  
 📊 Data and marketing analyst with experience in optimization, predictive modeling, and digital performance reporting
-
 🧠 Passionate about turning messy data into clear insights that support business growth and strategic decisions
-
 💬 Let’s connect if you’re working on data, tech, healthcare, or hip-hop music!
 
 ---
