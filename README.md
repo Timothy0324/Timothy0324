@@ -9,11 +9,20 @@
 
 ## 🔧 Tools & Skills
 
+**Programming / Data**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-003B6F?style=flat&logo=ibm&logoColor=white)
+
+**Analytics / BI Tools**  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+
+**CRM / Marketing Tools**  
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
 ---
 
@@ -27,12 +36,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=dark&hide_border=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=default&hide_border=false)
+## 📈 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=highcontrast&hide_border=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=tokyonight&hide_border=false)
 
 
 ---
