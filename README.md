@@ -2,9 +2,9 @@
 </p>
 
 🎓 MS in Marketing Science & Business Analytics @ University of Pittsburgh  
-📊 Passionate about data-driven decision making, optimization, and sustainability  
-📦 Currently building a portfolio of analytics & strategy projects  
-💬 Always open to connect on data, tech, or hip-hop music!
+📊 Data and marketing analyst with experience in optimization, predictive modeling, and digital performance reporting
+🧠 Passionate about turning messy data into clear insights that support business growth and strategic decisions
+💬 Let’s connect if you’re working on data, tech, healthcare, or hip-hop music!
 
 ---
 
@@ -39,7 +39,6 @@
 
 ## 📈 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=highcontrast&hide_border=false)
-
 
 ---
 
