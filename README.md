@@ -29,7 +29,8 @@
 
 ## 📈 GitHub Stats
 
-![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothy0324&show_icons=true&theme=gruvbox)
+![Timothy's GitHub Stats](![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothy0324&layout=compact)
+)
 
 ---
 
