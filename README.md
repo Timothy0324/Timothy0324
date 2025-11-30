@@ -29,10 +29,13 @@
 
 ## 📌 Featured Projects
 
-- [U.S. Energy Mix Optimization – Multi-Objective Model](https://github.com/yourusername/your-repo-name)  
+- [AI-AHP Decision Agent](https://github.com/Timothy0324/ai-decision-agent-ahp-anp)  
+  The AI-AHP Decision Agent integrates structured decision logic (AHP) with AI-assisted data collection to deliver fast, explainable, and scalable recommendations for strategic market entry and investment decisions.  
+
+- [U.S. Energy Mix Optimization – Multi-Objective Model](https://github.com/Timothy0324/Optimizing-the-U.S.-Energy-Mix)  
   Pareto-based Excel Solver model balancing cost, emissions & reliability  
 
-- [Spotify Popularity Analysis](https://github.com/yourusername/spotify-popularity)  
+- [Spotify Popularity Analysis](https://github.com/Timothy0324/Spotify-Song-Popularity-Analysis)  
   Python + Seaborn + Regression to explore audio features driving popularity  
 
 ---
