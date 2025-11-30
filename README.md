@@ -29,7 +29,10 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=default&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=highcontrast&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=tokyonight&hide_border=false)
 
 
 ---
