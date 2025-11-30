@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Timothy!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&width=435&lines=Hi%2C+I'm+Timothy!;Data+Analytics+%7C+Optimization+%7C+Marketing+Insights" alt="Typing SVG" />
 
 🎓 MS in Marketing Science & Business Analytics @ University of Pittsburgh  
 📊 Passionate about data-driven decision making, optimization, and sustainability  
