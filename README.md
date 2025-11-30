@@ -29,7 +29,7 @@
 
 ## 📈 GitHub Stats
 
-![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothy0324&show_icons=true&theme=default&cache_seconds=1800)
+![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothy0324&show_icons=true&theme=gruvbox)
 
 ---
 
