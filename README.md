@@ -29,10 +29,10 @@
 
 ## 📌 Featured Projects
 
-- 🎯 [U.S. Energy Mix Optimization – Multi-Objective Model](https://github.com/yourusername/your-repo-name)  
+- [U.S. Energy Mix Optimization – Multi-Objective Model](https://github.com/yourusername/your-repo-name)  
   Pareto-based Excel Solver model balancing cost, emissions & reliability  
 
-- 📊 [Spotify Popularity Analysis](https://github.com/yourusername/spotify-popularity)  
+- [Spotify Popularity Analysis](https://github.com/yourusername/spotify-popularity)  
   Python + Seaborn + Regression to explore audio features driving popularity  
 
 ---
