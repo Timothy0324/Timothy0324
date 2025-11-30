@@ -29,7 +29,7 @@
 
 ## 📈 GitHub Stats
 
-[Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothy0324&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=dark&hide_border=false)
 
 
 ---
