@@ -41,7 +41,7 @@
 ---
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=highcontrast&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=highcontrast&hideborder=false)
 
 ---
 
