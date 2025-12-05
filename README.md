@@ -44,13 +44,6 @@
 
 ---
 
-## 📈 GitHub Streak
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Timothy0324&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/chingchenliu/))
