@@ -45,7 +45,9 @@
 ---
 
 ## 📈 GitHub Streak
-![Active GitHub User](https://img.shields.io/badge/GitHub-Streak%20Temporarily%20Unavailable-lightgrey?logo=github)
+<p align="center">
+  <img src="images/contribution-graph.png" width="700"/>
+</p>
 
 ---
 
