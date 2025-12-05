@@ -45,7 +45,7 @@
 ---
 
 ## 📈 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=Timothy0324&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+![Active GitHub User](https://img.shields.io/badge/GitHub-Streak%20Temporarily%20Unavailable-lightgrey?logo=github)
 
 ---
 
