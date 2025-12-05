@@ -45,7 +45,7 @@
 ---
 
 ## 📈 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=Timothy0324&theme=tokyonight&hide_border=false&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=Timothy0324&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 ---
 
