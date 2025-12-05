@@ -46,7 +46,7 @@
 
 ## 📈 GitHub Streak
 <p align="center">
-  <img src="images/contribution-graph.png" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Timothy0324&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
 </p>
 
 ---
