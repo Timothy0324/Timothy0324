@@ -45,7 +45,7 @@
 ---
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Timothy0324&show_icons=true&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Timothy0324&theme=tokyonight&hide_border=false&cache_seconds=1800" />
 
 ---
 
